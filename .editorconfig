@@ -1,0 +1,24 @@
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+ij_any_line_comment_at_first_column = false
+ij_any_line_comment_add_space = true
+
+
+[*.java]
+charset = utf-8
+indent_style = space
+indent_size = 2
+ij_any_line_comment_at_first_column = false
+ij_any_line_comment_add_space = true
+
+[{*.yaml,*.yml}]
+charset = utf-8
+indent_style = space
+indent_size = 2
+ij_any_line_comment_at_first_column = false
+ij_any_line_comment_add_space = true
+
